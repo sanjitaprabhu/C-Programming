@@ -3,7 +3,7 @@
 int main()
 {
 	int n,r,dec,base=1;
-	printf("Enter Binomial Number: ");
+	printf("Enter Binary Number: ");
 	scanf("%d",&n);
 	while(n!=0)
 	{
